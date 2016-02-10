@@ -12,15 +12,14 @@ Example:
     $ macbook-pro-retina-screen-manufacturer
     Manufacturer is LG, model is LP154YL01001
 
-The number will be formatted something like this: "LP154YL01001".
+The model's first two letters indicate the manufacturer company:
 
-The model's first two letters of the model specify the manufacturer company:
+  * "LP" prefix: the manufacturer is LG
 
-  * "LS" prefix: built by Samsung
-
-  * "LP" prefix: built by LG
+  * "LS" prefix: the manufacturer is Samsung
 
 This works on a typical MacBook Pro Retina from approximately 2012.
+
 We welcome improvements for newer MacBooks, newer OS versions, etc.
 
 In our experience, the screens that are manufactured by LG have had many
