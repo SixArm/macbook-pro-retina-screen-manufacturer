@@ -1,4 +1,4 @@
-# MacBook Pro Retina screen manufacturer and model number
+# MacBook Pro Retina screen manufacturer model
 
 Run this script on a MacBook Pro that has a Retina screen,
 and the script shows the manufacturer model number.
