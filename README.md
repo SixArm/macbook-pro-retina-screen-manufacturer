@@ -1,11 +1,20 @@
-# MacBook Pro Retina screen manufacturer model number
+# MacBook Pro Retina screen manufacturer and model number
 
 Run this script on a MacBook Pro that has a Retina screen,
 and the script shows the manufacturer model number.
 
+Syntax:
+
+    macbook-pro-retina-screen-manufacturer
+
+Example:
+
+    $ macbook-pro-retina-screen-manufacturer
+    Manufacturer is LG, model is LP154YL01001
+
 The number will be formatted something like this: "LP154YL01001".
 
-The first two letters indicates the manufacturer company:
+The model's first two letters of the model specify the manufacturer company:
 
   * "LS" prefix: built by Samsung
 
